@@ -1,0 +1,17 @@
+{
+  "titulo": "Caca-Bug-9",
+  "arquivo": "index.html",
+  "itens": [
+    {
+      "path": "www/index.html",
+      "nome": "Mini SK",
+      "desc": "",
+      "on": true,
+      "icone": "www/icons/icon.svg"
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "escuro",
+  "links": []
+}
